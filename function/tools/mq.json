@@ -1,0 +1,4 @@
+{
+    "read": {"id": 13, "action": "readProperty", "data": ["value"]},
+    "write": {"id": 13, "action": "writeProperty", "data": ["value", 555]}
+}
